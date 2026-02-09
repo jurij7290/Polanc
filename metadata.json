@@ -1,0 +1,8 @@
+{
+  "name": "Avtoservis Blaž Polanc s.p. - Specijalist za vaše vozilo",
+  "description": "Zaupanja vreden servis za vozila vseh znamk z dolgoletnimi izkušnjami.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
